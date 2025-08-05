@@ -2,7 +2,7 @@
 
 ## 対応するプレゼンテーション資料
 
-[Engineer Guild Bootcamp 第 1 回プレゼンテーション資料](https://docs.google.com/presentation/d/1iySjng2VZFaBcj7oFw3IDE8qPPFrWs4ICzGjlmKn4Qc/edit?usp=sharing)
+[Engineer Guild Bootcamp 第 1 回プレゼンテーション資料](https://www.notion.so/howtv/Engineer-Guild-Bootcamp-Week-1-2450ce0fdf5680f398cff56fb4ba2982)
 
 ## コンテンツ
 
