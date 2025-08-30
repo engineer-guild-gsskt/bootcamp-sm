@@ -39,5 +39,6 @@ Gemini や Claude など生成 AI に聞いてみましょう。可能なら Pro
 
 ### 資料集
 
-[CSS スタイリングのコツ【レイアウト編】](https://zenn.dev/sassan/articles/4ae67ad2897124)  
-[CSS早見表](https://campers.hateblo.jp/entry/programming-tag-table)
+[CSS 早見表](https://campers.hateblo.jp/entry/programming-tag-table)  
+[Daisy UI](https://daisyui.com/)  
+[CSS スタイリングのコツ【レイアウト編】](https://zenn.dev/sassan/articles/4ae67ad2897124)
